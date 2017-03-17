@@ -1,13 +1,26 @@
-h2 {font-size: 32px; font-family: helvetica; font-weight: bold;}
+h1 {font-family: Helvetica; font-size: 70px; font-weight: bold; color: white;}
 
-h3 {font-size: 23px; font-family: helvetica; font-weight: bold;}
+h2 {font-size: 32px; font-family: Helvetica; font-weight: bold;}
 
-h4 {font-size: 23px; font-family: helvetica; font-weight: bold; color: white; background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);}
+h3 {font-size: 23px; font-weight: bold; font-family: Helvetica;}
 
-body {text-align: center; horizontal;}
+h4 {font-size: 23px; font-weight: bold; font-family: Helvetica; color: white; background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);}
 
-.header {font-size: 70px; font-family: helvetica; font-weight: bold; color: white; background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);}
+body {background-color: black; padding-left: 50px; padding-right: 50px;}
 
-.footer {font-size: 11px; font-family: helvetica; color: white; text-align: left; background-color: dimgray;}
+#container {background-color: white; text-align: center;}
 
-.navigation {font-size: 18px; font-family: helvetica; color: white; font-weight: bold;text-align: center;}
+.header {height: 290px; font-family: Helvetica; font-size: 70px; font-weight: bold; color: white; background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);}
+
+.navigation {font-size: 18px; font-family: Helvetica; color: white; text-align: center;}
+
+p {font-family: Helvetica; font-size: 14px;}
+
+a {color: white; font-size: 18px; font-family: helvetica;}
+
+
+<!--Footer Starts Here-->
+
+.footer-nav {font-size: 18px; font-family: Helvetica; color: white;}
+
+.footer {font-size: 11px; font-family: Helvetica; color: white; text-align: left; background-color: dimgray;}
